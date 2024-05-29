@@ -1,0 +1,14 @@
+Read the Spreadsheet: Use a library like pandas to read the spreadsheet and extract the birthdays along with the corresponding names.
+
+Calculate Reminders: Calculate how many days are left until each birthday. You can use the datetime module to work with dates.
+
+Send WhatsApp Messages: You can use the twilio library to send messages via WhatsApp. You'll need to sign up for a Twilio account and get your Twilio credentials.
+
+
+twilio recovery code
+EPCXMQPNDCK3LMUYM885MDSC
+
+twilio
+rinkoo.bharani@macleans.school.nz
+Dh00mDhad@k@Gudia
+
